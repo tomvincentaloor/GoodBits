@@ -1,0 +1,37 @@
+.post-date{
+	background: #f4f4f4;
+	padding: 4px;
+	margin: 3px 0;
+	display: block;
+}
+
+.post-thumb{
+	width: 100%;
+}
+
+.paginate-link{
+	margin: 30px 0;
+}
+
+.paginate-link strong{
+	padding: 8px 13px;
+	margin: 5px;
+	background: #f4f4f4;
+	border: 1px #ccc solid;
+}
+
+a.paginate-link{
+	padding: 8px 13px;
+	margin: 5px;
+	background: #f4f4f4;
+	border: 1px #ccc solid;
+}
+
+.cat-delete{
+	display: inline;
+}
+
+.requiredswitch label { display: inline-block;margin: 0; width: 137px;height: 100px;  font-size: 18px;font-style: normal;font-weight: 400;line-height: 26px; letter-spacing: -0.011em;text-align: center;padding: 11px 11px;background: #EDECEC;color:#000; border-radius: 4px;cursor: pointer;margin-left: -5px;}
+.requiredswitch input:checked,
+.requiredswitch input:not(:checked) { display: none;}
+.requiredswitch input:checked + label { background:#14A800;color:#FFFFFF ;}
